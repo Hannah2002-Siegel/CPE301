@@ -1,6 +1,3 @@
-# CPE301
-Work from CPE 301 2022 spring semester
-
 CPE 301 Final Project -- Swamp Cooler
 
 Overview:
